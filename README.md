@@ -5,6 +5,7 @@ This project is a simple blockchain-based banking system implemented in Python. 
 The system is designed for educational purposes to help students and learners understand how blockchain concepts can be applied in real-world scenarios like digital banking.
 
 *Features*
+
 Account creation and balance management
 Secure transactions between accounts
 Mining mechanism to validate and add transactions to the blockchain
